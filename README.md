@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MyProfile
 “I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness. In my previous role
 //bin
@@ -149,4 +149,4 @@
 <br>
 
 Credit: [Akshay Tanpure](https://github.com/0xAkshayTanpure2210)
->>>>>>> 2c884754b5f6820c34d9fe8052ba45fefe196677
+
