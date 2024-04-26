@@ -20,7 +20,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAkshayTanpure2210/0xAkshayTanpure2210/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
+   . <br>
 
 - A passionate Self-taught Full Stack developer
 - Currently learning Web Development.
